@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.contact-page {
+    text-align: center;
+}
+
+.profile-pic img {
+    width: 150px; /* You can adjust the size */
+    height: auto; 
+    border-radius: 50%; /* Optional: make it circular */
+}
